@@ -1,16 +1,15 @@
 # expenses_tracker
 
-A new Flutter project.
+Full functional Flutter expenses tracker mobile application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project contains a Simple UI Full Functional Expenses Tracking Flutter mobile application, that gives the user the ability to register his new expenses after navigate to the new expense page.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Registration
+By filling the fields with the following info:
+1. Expense Title.
+2. Amount of the money.
+3. Date of the expense (after clicking on the date icon).
+4. Category of the expense (FOOD, TRAVEL, WORK, LEISURE).
+5. Submitting using the (Save Expense) button.
