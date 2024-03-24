@@ -15,6 +15,7 @@ By filling the fields with the following info:
 5. Submitting using the (Save Expense) button.
 
 # Review
+<img src="https://github.com/HYDARAMONA/Expenses_Tracker/assets/109179853/e481edc9-9ad4-4173-a825-2066ae0ade5d" width="100" height="100"/>
 ![Expenses List Dark Mode](https://github.com/HYDARAMONA/Expenses_Tracker/assets/109179853/e481edc9-9ad4-4173-a825-2066ae0ade5d)
 ![Date Picker Dark Mode](https://github.com/HYDARAMONA/Expenses_Tracker/assets/109179853/a1415da9-e46c-4182-8136-24c8b726dfe3)
 ![New Expense Registration Dark Mode](https://github.com/HYDARAMONA/Expenses_Tracker/assets/109179853/8a11dbda-37a6-4875-9ddb-17ad46096b8b)
