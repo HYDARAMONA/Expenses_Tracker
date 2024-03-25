@@ -6,6 +6,10 @@ Full functional Flutter expenses tracker mobile application.
 
 This project contains a Simple UI Full Functional Expenses Tracking Flutter mobile application, that gives the user the ability to register his new expenses after navigate to the new expense page.
 
+## Deleting expense
+The user can delete the unwanted expenses by sliding them right or left,
+after deleting a snackBar will show up for 3 seconds in case the user changed his mid and wanted to restore the last deleted expense.
+
 ## Registration
 By filling the fields with the following info:
 1. Expense Title.
