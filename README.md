@@ -1,6 +1,7 @@
 # expenses_tracker
 
 Full functional Flutter expenses tracker mobile application.
+Available in dark and light mode (synchronized with the mobile system Theme).
 
 ## Getting Started
 
