@@ -16,6 +16,11 @@ By filling the fields with the following info:
 4. Category of the expense (FOOD, TRAVEL, WORK, LEISURE).
 5. Submitting using the (Save Expense) button.
 
+## Deleting Expenses
+
+The user has the ability to delete the unwanted expenses by sliding the expense to the right or to the left,
+after sliding the expense a snackBar will show up for 3 seconds with an UNDO button in case if the user wanted to restore the deleted expense.
+
 ## Features of the app With Screenshots
 
 | Task                           | Screenshot                                           | Task                            | Screenshot                                           |
