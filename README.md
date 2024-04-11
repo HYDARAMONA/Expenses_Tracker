@@ -23,8 +23,8 @@ after sliding the expense a snackBar will show up for 3 seconds with an UNDO but
 
 ## Features of the app With Screenshots
 
-| Task                           | Screenshot                                           | Task                            | Screenshot                                           |
-| ------------------------------ | ---------------------------------------------------- | ------------------------------- | ---------------------------------------------------- |
-| Expenses Screen Light Mode     | ![Splash Screen](assets/screenshots/1.png)           | Expense Registration Light Mode | ![Login Screen](assets/screenshots/2.png)            |
-| Date Picker Light Mode         | ![Complete Profile Screen](assets/screenshots/3.png) | Expenses Screen Dark Mode       | ![OTP Verification Screen](assets/screenshots/4.png) |
-| Expense Registration Dark Mode | ![Home Screen](assets/screenshots/5.png)             | Date Picker Dark Mode           | ![Categories Screen](assets/screenshots/6.png)       |
+| Task                            | Screenshot                                           | Task                           | Screenshot                                           |
+| ------------------------------- | ---------------------------------------------------- | ------------------------------ | ---------------------------------------------------- |
+| Expenses Screen Light Mode      | ![Splash Screen](assets/screenshots/1.png)           | Expenses Screen Dark Mode      | ![Login Screen](assets/screenshots/4.png)            |
+| Expense Registration Light Mode | ![Complete Profile Screen](assets/screenshots/2.png) | Expense Registration Dark Mode | ![OTP Verification Screen](assets/screenshots/5.png) |
+| Date Picker Light Mode          | ![Home Screen](assets/screenshots/3.png)             | Date Picker Dark Mode          | ![Categories Screen](assets/screenshots/6.png)       |
